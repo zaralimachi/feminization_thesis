@@ -24,3 +24,47 @@ El trabajo analiza estas dinámicas para el caso peruano, considerando diferenci
 
 ## 🧮 Estructura del repositorio
 
+
+---
+
+## ⚙️ Requisitos técnicos
+- **Software**: Stata 16 o superior (también compatible con R mediante `haven`)  
+- **Librerías sugeridas**:  
+  - `estout`, `asdoc`, `outreg2` (exportación de resultados en Stata)  
+  - `ggplot2`, `dplyr`, `stargazer` (en R, si se replica el análisis)  
+- **Sistema operativo**: Windows, macOS o Linux  
+
+---
+
+## 🧾 Ejecución del proyecto
+1. Guardar las bases de datos en la carpeta `1_Data/`.  
+2. Ejecutar los scripts de limpieza y análisis en orden numérico desde `2_Dofiles/`.  
+3. Los resultados se generarán automáticamente en `3_Outputs/`.  
+4. El documento final se encuentra en `4_Reports/thesis_final.pdf`.  
+
+---
+
+## 📚 Citas clave
+- Bastidas Aliaga, M. (2000). *La informalidad como recurso ante la falta de oportunidades*.  
+- Dollar, D., & Gatti, R. (1999). *Gender Inequality, Income, and Growth: Are Good Times Good for Women?*  
+- Muñoz de Camacho, G., & Pinilla, C. (2013). *La feminización de la educación superior en América Latina*.  
+- Vásconez Rodríguez, C. (2017). *Feminización del trabajo y ciclos económicos*.  
+- Agénor, P., & Canuto, O. (2015). *Gender Equality and Economic Growth in Developing Economies*.  
+
+---
+
+## ✍️ Autora
+**Zaragoza Limachi**  
+Facultad de Economía  
+Universidad de Lima  
+
+---
+
+## 📅 Periodo de estudio
+**2008 – 2016**
+
+---
+
+## 🧾 Licencia
+Este proyecto es de uso académico. Cualquier reproducción total o parcial debe citar a la autora y a la fuente original del estudio.
+
